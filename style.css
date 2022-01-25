@@ -1,0 +1,24 @@
+body{
+text-align: center;
+background-image: url("oh.jpeg");
+font-family: fantasy;
+background-size: cover;
+}
+#submit{
+margin: 20px;
+color: deeppink;
+background-color: deepskyblue;
+}
+#sorting{
+    margin: 20px;
+    color: deeppink;
+    background-color: deepskyblue;
+    display: none; 
+}
+#result{
+    font-size: 25px;
+    font-family: cursive;
+}
+input{
+    margin: 10px;
+}
